@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5d5"
+  },
+  "enrollment_id": 1,
+  "student_id": 4,
+  "course_id": 1,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5d6"
+  },
+  "enrollment_id": 2,
+  "student_id": 6,
+  "course_id": 3,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5d7"
+  },
+  "enrollment_id": 3,
+  "student_id": 8,
+  "course_id": 2,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5d8"
+  },
+  "enrollment_id": 4,
+  "student_id": 10,
+  "course_id": 5,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5da"
+  },
+  "enrollment_id": 6,
+  "student_id": 14,
+  "course_id": 6,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5db"
+  },
+  "enrollment_id": 7,
+  "student_id": 16,
+  "course_id": 7,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5dc"
+  },
+  "enrollment_id": 8,
+  "student_id": 18,
+  "course_id": 8,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5dd"
+  },
+  "enrollment_id": 9,
+  "student_id": 20,
+  "course_id": 9,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5de"
+  },
+  "enrollment_id": 10,
+  "student_id": 4,
+  "course_id": 10,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5df"
+  },
+  "enrollment_id": 11,
+  "student_id": 6,
+  "course_id": 12,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5e0"
+  },
+  "enrollment_id": 12,
+  "student_id": 8,
+  "course_id": 13,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5e1"
+  },
+  "enrollment_id": 13,
+  "student_id": 10,
+  "course_id": 14,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5e2"
+  },
+  "enrollment_id": 14,
+  "student_id": 12,
+  "course_id": 15,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5e3"
+  },
+  "enrollment_id": 15,
+  "student_id": 14,
+  "course_id": 16,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:44.389Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "684dc6dde797b6585cb6c615"
+  },
+  "enrollment_id": 21,
+  "student_id": 21,
+  "course_id": 1,
+  "enrolled_at": {
+    "$date": "2025-06-14T20:00:45.360Z"
+  },
+  "is_active": true
+}]

@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5cd"
+  },
+  "course_id": 1,
+  "title": "Introduction to Python",
+  "description": "Learn the basics of Python programming.",
+  "instructor_id": 1,
+  "category": "Programming",
+  "level": "beginner",
+  "duration": 10,
+  "price": 49.99,
+  "tags": [
+    "Python",
+    "Programming",
+    "Beginner",
+    "HTML5",
+    "Web Development"
+  ],
+  "created_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-14T20:00:46.133Z"
+  },
+  "is_published": true,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5ce"
+  },
+  "course_id": 2,
+  "title": "Data Analysis with Pandas",
+  "description": "Analyze data efficiently using Pandas library.",
+  "instructor_id": 5,
+  "category": "Data Science",
+  "level": "intermediate",
+  "duration": 8,
+  "price": 59.99,
+  "tags": [
+    "Data Science",
+    "Pandas",
+    "Analysis"
+  ],
+  "created_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "is_published": true,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5cf"
+  },
+  "course_id": 3,
+  "title": "Web Development with HTML & CSS",
+  "description": "Build modern websites using HTML and CSS.",
+  "instructor_id": 13,
+  "category": "Web Development",
+  "level": "beginner",
+  "duration": 12,
+  "price": 39.99,
+  "tags": [
+    "HTML",
+    "CSS",
+    "Frontend"
+  ],
+  "created_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "is_published": true,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5d0"
+  },
+  "course_id": 4,
+  "title": "JavaScript Essentials",
+  "description": "Understand JavaScript for interactive web pages.",
+  "instructor_id": 3,
+  "category": "Programming",
+  "level": "beginner",
+  "duration": 14,
+  "price": 44.99,
+  "tags": [
+    "JavaScript",
+    "Frontend"
+  ],
+  "created_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "is_published": true,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5d1"
+  },
+  "course_id": 5,
+  "title": "React for Beginners",
+  "description": "Build responsive web apps using React.",
+  "instructor_id": 13,
+  "category": "Frontend Development",
+  "level": "intermediate",
+  "duration": 15,
+  "price": 69.99,
+  "tags": [
+    "React",
+    "JavaScript",
+    "Frontend"
+  ],
+  "created_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "is_published": true,
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5d2"
+  },
+  "course_id": 6,
+  "title": "Advanced Machine Learning",
+  "description": "Dive deep into ML algorithms and model tuning.",
+  "instructor_id": 5,
+  "category": "Data Science",
+  "level": "advanced",
+  "duration": 20,
+  "price": 99.99,
+  "tags": [
+    "ML",
+    "AI",
+    "Scikit-learn"
+  ],
+  "created_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "is_published": true,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5d3"
+  },
+  "course_id": 7,
+  "title": "Database Design with SQL",
+  "description": "Design and query relational databases effectively.",
+  "instructor_id": 9,
+  "category": "Databases",
+  "level": "intermediate",
+  "duration": 10,
+  "price": 55,
+  "tags": [
+    "SQL",
+    "Database",
+    "Design"
+  ],
+  "created_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "is_published": true,
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5d4"
+  },
+  "course_id": 8,
+  "title": "Cybersecurity Fundamentals",
+  "description": "Protect systems with foundational security concepts.",
+  "instructor_id": 15,
+  "category": "Security",
+  "level": "beginner",
+  "duration": 9,
+  "price": 65.5,
+  "tags": [
+    "Security",
+    "Network",
+    "Linux"
+  ],
+  "created_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-14T20:00:43.846Z"
+  },
+  "is_published": true,
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "684dc6dde797b6585cb6c614"
+  },
+  "course_id": 21,
+  "title": "Advanced React Development",
+  "description": "Deep dive into React with hooks and state management.",
+  "instructor_id": 13,
+  "category": "Frontend Development",
+  "level": "advanced",
+  "duration": 25,
+  "price": 89.99,
+  "tags": [
+    "React",
+    "Hooks",
+    "State Management"
+  ],
+  "created_at": {
+    "$date": "2025-06-14T20:00:45.273Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-14T20:00:45.273Z"
+  },
+  "is_published": true
+}]

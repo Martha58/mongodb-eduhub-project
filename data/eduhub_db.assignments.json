@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5fd"
+  },
+  "assignment_id": 1,
+  "course_id": 1,
+  "title": "HTML Basics Assignment - Updated",
+  "description": "Create a simple web page using basic HTML elements with additional features.",
+  "due_date": {
+    "$date": "2025-06-30T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-06-13T17:47:29.987Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5fe"
+  },
+  "assignment_id": 2,
+  "course_id": 2,
+  "title": "CSS Styling Project",
+  "description": "Style the provided HTML page using CSS to match a given design.",
+  "due_date": {
+    "$date": "2025-06-26T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c5ff"
+  },
+  "assignment_id": 3,
+  "course_id": 3,
+  "title": "JavaScript Variables and Functions",
+  "description": "Write a script using functions and variables to simulate a calculator.",
+  "due_date": {
+    "$date": "2025-06-27T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c600"
+  },
+  "assignment_id": 4,
+  "course_id": 4,
+  "title": "Python List Operations",
+  "description": "Implement a program that manipulates and analyzes lists.",
+  "due_date": {
+    "$date": "2025-06-28T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c601"
+  },
+  "assignment_id": 5,
+  "course_id": 5,
+  "title": "Data Cleaning with Pandas",
+  "description": "Clean and prepare a dataset using Pandas techniques.",
+  "due_date": {
+    "$date": "2025-06-29T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c602"
+  },
+  "assignment_id": 6,
+  "course_id": 6,
+  "title": "SQL Query Practice",
+  "description": "Write SQL queries to retrieve and manipulate data from a sample database.",
+  "due_date": {
+    "$date": "2025-06-30T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c603"
+  },
+  "assignment_id": 7,
+  "course_id": 7,
+  "title": "MongoDB CRUD Operations",
+  "description": "Create and update documents in a MongoDB collection.",
+  "due_date": {
+    "$date": "2025-07-01T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c604"
+  },
+  "assignment_id": 8,
+  "course_id": 8,
+  "title": "Building Django Models",
+  "description": "Define Django models for a blogging application.",
+  "due_date": {
+    "$date": "2025-07-02T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c605"
+  },
+  "assignment_id": 9,
+  "course_id": 9,
+  "title": "API Design with FastAPI",
+  "description": "Design and test a RESTful API using FastAPI.",
+  "due_date": {
+    "$date": "2025-07-03T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dc6dce797b6585cb6c606"
+  },
+  "assignment_id": 10,
+  "course_id": 10,
+  "title": "Data Analysis with Python",
+  "description": "Analyze a dataset and provide insights using charts and graphs.",
+  "due_date": {
+    "$date": "2025-07-04T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  }
+}]

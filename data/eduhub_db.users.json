@@ -1,0 +1,469 @@
+[{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5b9"
+  },
+  "user_id": 1,
+  "full_name": "Dorcas Williams",
+  "email": "dorcas@gmail.com",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "I am Dorcas, an instructor at this academy.",
+    "avatar": "https://example.com/avatar1.jpg",
+    "skills": [
+      "Python",
+      "MongoDB",
+      "SQL",
+      "JavaScript"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5ba"
+  },
+  "user_id": 2,
+  "full_name": "Isaac Brown",
+  "email": "isaacb@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Student passionate about backend development.",
+    "avatar": "https://example.com/avatar2.jpg",
+    "skills": [
+      "Python",
+      "Flask",
+      "Docker"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5bb"
+  },
+  "user_id": 3,
+  "full_name": "Clara Osei",
+  "email": "clarao@gmail.com",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Teaching JavaScript and frontend frameworks.",
+    "avatar": "https://example.com/avatar3.jpg",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5bc"
+  },
+  "user_id": 4,
+  "full_name": "Emeka Obi",
+  "email": "emeka@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Learning data analysis and visualization.",
+    "avatar": "https://example.com/avatar4.jpg",
+    "skills": [
+      "Excel",
+      "Power BI",
+      "SQL"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5bd"
+  },
+  "user_id": 5,
+  "full_name": "Aisha Bello",
+  "email": "aisha@gmail.com",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Mentor in machine learning and Python.",
+    "avatar": "https://example.com/avatar5.jpg",
+    "skills": [
+      "Python",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5be"
+  },
+  "user_id": 6,
+  "full_name": "John Doe",
+  "email": "jdoe@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Exploring web development fundamentals.",
+    "avatar": "https://example.com/avatar6.jpg",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5bf"
+  },
+  "user_id": 7,
+  "full_name": "Grace Mwangi",
+  "email": "gracem@gmail.com",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Guiding students in cloud computing.",
+    "avatar": "https://example.com/avatar7.jpg",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Docker"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5c0"
+  },
+  "user_id": 8,
+  "full_name": "Samuel Kim",
+  "email": "samkim@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Interested in automation and scripting.",
+    "avatar": "https://example.com/avatar8.jpg",
+    "skills": [
+      "Python",
+      "Bash",
+      "Git"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5c1"
+  },
+  "user_id": 9,
+  "full_name": "Fatima Yusuf",
+  "email": "fatima@gmail.com",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Instructor focused on database design.",
+    "avatar": "https://example.com/avatar9.jpg",
+    "skills": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5c2"
+  },
+  "user_id": 10,
+  "full_name": "Michael Chen",
+  "email": "mchen@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Pursuing a path in AI and deep learning.",
+    "avatar": "https://example.com/avatar10.jpg",
+    "skills": [
+      "TensorFlow",
+      "Keras",
+      "Python"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5c3"
+  },
+  "user_id": 11,
+  "full_name": "Linda Kone",
+  "email": "lindak@gmail.com",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Instructor in software engineering principles.",
+    "avatar": "https://example.com/avatar11.jpg",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Git"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5c4"
+  },
+  "user_id": 12,
+  "full_name": "Omar Diallo",
+  "email": "omard@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Learning APIs and backend development.",
+    "avatar": "https://example.com/avatar12.jpg",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5c5"
+  },
+  "user_id": 13,
+  "full_name": "Janet Mensah",
+  "email": "janetm@gmail.com",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Frontend expert and UI/UX enthusiast.",
+    "avatar": "https://example.com/avatar13.jpg",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma",
+      "React"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5c6"
+  },
+  "user_id": 14,
+  "full_name": "Aliyu Musa",
+  "email": "aliyum@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Beginner exploring full-stack development.",
+    "avatar": "https://example.com/avatar14.jpg",
+    "skills": [
+      "Python",
+      "React",
+      "Django"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5c7"
+  },
+  "user_id": 15,
+  "full_name": "Sarah Njeri",
+  "email": "sarahn@gmail.com",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Cybersecurity instructor with 5 years of experience.",
+    "avatar": "https://example.com/avatar15.jpg",
+    "skills": [
+      "Network Security",
+      "Linux",
+      "Python"
+    ]
+  },
+  "is_active": "False"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5c8"
+  },
+  "user_id": 16,
+  "full_name": "Peter Obi",
+  "email": "petero@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Student aiming to become a DevOps engineer.",
+    "avatar": "https://example.com/avatar16.jpg",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5c9"
+  },
+  "user_id": 17,
+  "full_name": "Fola Adebayo",
+  "email": "fola@gmail.com",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Specialist in data science and analytics.",
+    "avatar": "https://example.com/avatar17.jpg",
+    "skills": [
+      "Pandas",
+      "NumPy",
+      "Tableau",
+      "SQL"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5ca"
+  },
+  "user_id": 18,
+  "full_name": "Mariam Jatta",
+  "email": "mariamj@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Exploring app development and design.",
+    "avatar": "https://example.com/avatar18.jpg",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5cb"
+  },
+  "user_id": 19,
+  "full_name": "Kevin Banda",
+  "email": "kevinb@gmail.com",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Mobile development mentor.",
+    "avatar": "https://example.com/avatar19.jpg",
+    "skills": [
+      "React Native",
+      "Kotlin",
+      "Swift"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dbe797b6585cb6c5cc"
+  },
+  "user_id": 20,
+  "full_name": "Chinwe Okeke",
+  "email": "chinweo@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:43.584Z"
+  },
+  "profile": {
+    "bio": "Interested in cybersecurity and networking.",
+    "avatar": "https://example.com/avatar20.jpg",
+    "skills": [
+      "Wireshark",
+      "Linux",
+      "Python"
+    ]
+  },
+  "is_active": "True"
+},
+{
+  "_id": {
+    "$oid": "684dc6dde797b6585cb6c613"
+  },
+  "user_id": 21,
+  "full_name": "Folarin Shade",
+  "email": "folashade@gmail.com",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-14T20:00:45.210Z"
+  },
+  "profile": {
+    "bio": "I am Shade, a frontend dev student with a passion for design.",
+    "avatar": "https://example.com/new_avatar1.jpg",
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ]
+  },
+  "is_active": "True"
+}]
