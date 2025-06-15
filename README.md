@@ -19,7 +19,7 @@ This project showcases a complete NoSQL workflow using **MongoDB** — from data
 ## 🚀 Project Workflow
 
 ### 🏗️ Step 1: Database & Collections Setup
-- Created a MongoDB database named `EducationPlatform` using **MongoDB Compass**.
+- Created a MongoDB database named `EduHub` using **MongoDB Compass**.
 - Defined and created the following collections:
   - `users`
   - `courses`
